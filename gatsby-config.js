@@ -9,9 +9,9 @@ module.exports = {
     title: "WebDev Portfolio",
     description: "This is WebDev Portfolio Site",
     author: "@webdev",
-    twitterUsername: "@john_smilga",
+    twitterUsername: "@john",
     image: "/twitter-img.png",
-    siteUrl: "https://testing-strapi-gatsby-build.netlify.app",
+    siteUrl: "https://testing-strapi-gatsby-portfolio-woseo.netlify.app",
   },
   plugins: [
     `gatsby-transformer-sharp`,
